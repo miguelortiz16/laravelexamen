@@ -1,0 +1,6 @@
+importar la base de datos en mariadb con el nombre de crudphp2
+mover ala carpeta www
+correr el api rest dentro de la carpeta con el comando php artisan serve
+insetar un datos para ser reflejado en el rest
+
+http://127.0.0.1:8000/api/producto
